@@ -1,5 +1,5 @@
-# Dataset-BGI
-Dataset com os dados utilizados na minha monografia.
+# BGI
+Dataset com os dados e códigos utilizados na minha monografia.
 
 dados_brutos - Dataset como todos os dados colhidos na sua escala original.
 
